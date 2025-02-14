@@ -1,7 +1,7 @@
     
 # 👋 Hi, I'm Priyanka!
 
-👩🏻‍💻 A passionate software developer with a python full stack development obsession. 
+👩🏻‍💻 A passionate software developer with a python full stack development obsession.<br> 
 👯 I’m looking to collaborate on open source contributions<br>
 🌱 I’m currently learning Python full stack development<br>
 
