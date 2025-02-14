@@ -1,5 +1,5 @@
     
-# 👋 Hi, I'm Magdeline!
+# 👋 Hi, I'm Priyanka!
 
 👩🏻‍💻 A passionate software developer with a python full stack development obsession.
 🔭 I’m currently working on Tech<br>
