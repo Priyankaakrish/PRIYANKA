@@ -1,6 +1,7 @@
     
 # 💫 About Me:
 👩🏻‍💻I'm Priyanka, a passionate software developer with a python full stack development obsession.
+
 🔭 I’m currently working on Tech<br>
 👯 I’m looking to collaborate on open source contributions<br>
 🌱 I’m currently learning Python full stack development<br>
